@@ -4,6 +4,8 @@
 
 **Student360** is an interactive data analytics dashboard designed to analyze student performance based on behavioral, academic, and lifestyle factors. It provides actionable insights into how habits like studying, gaming, sleep, and attendance influence academic outcomes.
 
+**Working Demo :** https://www.youtube.com/watch?v=Ph8KTj1mlnE
+
 ---
 
 ## 🚀 Features
